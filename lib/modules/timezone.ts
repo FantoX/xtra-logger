@@ -14,6 +14,7 @@ class TimeLogger {
   }
 
   /**
+   * @author FantoX
    * @description Logs current system time in DD.MM.YY - HH:MM:SS format
    * @returns
    */

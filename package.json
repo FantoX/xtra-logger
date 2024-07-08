@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FantoX/logger-js.git"
+    "url": "https://github.com/FantoX/logger.js.git"
   },
-  "homepage": "https://github.com/FantoX/logger-js#readme",
+  "homepage": "https://github.com/FantoX/logger.js#readme",
   "keywords": [
     "logger",
     "chalk",
