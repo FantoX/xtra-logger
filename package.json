@@ -1,5 +1,5 @@
 {
-  "name": "logger-js",
+  "name": "nodejs-logger",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,7 +18,11 @@
     "log",
     "log-level",
     "node-logger",
-    "console"
+    "console",
+    "node-logger",
+    "logging",
+    "color",
+    "coloriser"
   ],
   "author": "FantoX",
   "license": "MIT",
