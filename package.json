@@ -1,5 +1,5 @@
 {
-  "name": "@fantox01/logger-js",
+  "name": "xtra-logger",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FantoX/logger.js.git"
+    "url": "https://github.com/FantoX/xtra-logger.git"
   },
-  "homepage": "https://github.com/FantoX/logger.js#readme",
+  "homepage": "https://github.com/FantoX/xtra-logger#readme",
   "keywords": [
     "logger",
     "chalk",
@@ -22,7 +22,8 @@
     "logger-js",
     "logging",
     "color",
-    "coloriser"
+    "coloriser",
+    "xtra-logger"
   ],
   "author": "FantoX",
   "license": "MIT",
